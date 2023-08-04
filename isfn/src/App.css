@@ -1,12 +1,8 @@
-.App {
-  text-align: center;
-}
+ body {
+  background-color:rgb(29, 28, 35);
+ }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+ .bodyText {
+  text-align: center;
+  color: rgb(210, 210, 210);
+ }

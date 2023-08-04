@@ -20,7 +20,7 @@ height: 100%;
 padding: 0 1rem;
 text-decoration: none;
 &.active {
-	color: #4d4dff;
+	color:rgb(7, 188, 76);
 }
 `; //Color of the navbar text
 
